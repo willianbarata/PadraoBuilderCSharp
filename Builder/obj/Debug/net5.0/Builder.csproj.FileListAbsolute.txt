@@ -1,0 +1,16 @@
+C:\dev\Builder\Builder\bin\Debug\net5.0\Builder.exe
+C:\dev\Builder\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\dev\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\dev\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\dev\Builder\Builder\bin\Debug\net5.0\Builder.dll
+C:\dev\Builder\Builder\bin\Debug\net5.0\Builder.pdb
+C:\dev\Builder\Builder\obj\Debug\net5.0\Builder.csproj.AssemblyReference.cache
+C:\dev\Builder\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\dev\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\dev\Builder\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\dev\Builder\Builder\obj\Debug\net5.0\Builder.dll
+C:\dev\Builder\Builder\obj\Debug\net5.0\refint\Builder.dll
+C:\dev\Builder\Builder\obj\Debug\net5.0\Builder.pdb
+C:\dev\Builder\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
+C:\dev\Builder\Builder\obj\Debug\net5.0\ref\Builder.dll
